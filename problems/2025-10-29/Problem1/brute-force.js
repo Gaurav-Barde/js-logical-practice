@@ -28,4 +28,3 @@ const generateHierarchy = (inputArr) => {
 };
 
 const result = generateHierarchy(breadCrumb);
-console.log(result);
