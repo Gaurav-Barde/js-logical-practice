@@ -9,9 +9,10 @@ Each folder represents a day’s progress, containing one or more solved problem
 
 ## 📅 Progress Tracker
 
-| Date       | Problems Solved | Topics / Notes           |
-| ---------- | --------------- | ------------------------ |
-| 2025-10-29 | 1               | Breadcrumb Chain Problem |
-|            |                 |                          |
+| Date       | Problems Solved | Topics / Notes                                      |
+| ---------- | --------------- | --------------------------------------------------- |
+| 2025-10-29 | 1               | Breadcrumb Chain Problem                            |
+| 2025-10-31 | 1               | find the longest common ending in two strings       |
+| 2025-11-10 | 1               | Print the Depth of Each Property in a Nested Object |
 
 ✅ _Updated as I solve new problems._
