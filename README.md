@@ -18,5 +18,9 @@ Each folder represents a day’s progress, containing one or more solved problem
 | 2025-11-18 | 1               | find & print all elements that occur more than once                                        |
 | 2025-11-20 | 1               | countVowels how many vowels in a appear in string s.                                       |
 | 2025-11-26 | 1               | convert an array of objects into a single object using a specific key as the property name |
+| 2025-11-27 | 1               | Print numbers from 1 to N                                                                  |
+|            | 2               | Print all even numbers from 1 to N                                                         |
+|            | 3               | Print sum of first N Natural numbers                                                       |
+|            | 4               | Print Product(factorial) of N                                                              |
 
 ✅ _Updated as I solve new problems._
