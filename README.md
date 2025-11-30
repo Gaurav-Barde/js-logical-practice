@@ -22,5 +22,11 @@ Each folder represents a day’s progress, containing one or more solved problem
 |            | 2               | Print all even numbers from 1 to N                                                         |
 |            | 3               | Print sum of first N Natural numbers                                                       |
 |            | 4               | Print Product(factorial) of N                                                              |
+|            | 5               | Print sum of all even numbers up to N                                                      |
+|            | 6               | Print squares of numbers from 1 to N                                                       |
+|            | 7               | Print all numbers divisible by 3 & 5 up to N                                               |
+|            | 8               | Print the sum of all odd numbers up to N                                                   |
+|            | 9               | Print the cubes of numbers from 1 to N                                                     |
+|            | 10              | Print only the numbers that are both even and perfect squares up to N                      |
 
 ✅ _Updated as I solve new problems._
