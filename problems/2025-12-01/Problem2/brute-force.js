@@ -10,8 +10,10 @@ const checkVowelOrConsonant = (char) => {
     return "Not a valid letter!";
   }
 
+  const charToLower = char.toLowerCase();
+
   for (let item of vowels) {
-    if (item === char) {
+    if (item === charToLower) {
       return "Given character is a Vowel";
     }
   }
