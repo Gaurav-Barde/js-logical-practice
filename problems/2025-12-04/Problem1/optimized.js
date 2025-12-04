@@ -5,13 +5,11 @@
 //    * * * *
 //    * * * * *
 
-const rows = 4;
+const rows = 10;
 
 const printRightAngledTriangle = (rows) => {
-  let stars = "*";
   for (let i = 1; i <= rows; i++) {
-    console.log(stars);
-    stars += "*";
+    console.log("*".repeat(i));
   }
 };
 
