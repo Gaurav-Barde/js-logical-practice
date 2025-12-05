@@ -9,8 +9,9 @@
 const rows = 6;
 
 const printPyramidPattern = (rows) => {
-  let arr = Array(rows * 2 - 1).fill(" ", 0, rows * 2 - 1);
-  let median = Math.floor((rows * 2 - 1) / 2); //4
+  const rowsDoubleIndex = rows * 2 - 1;
+  const arr = Array(rowsDoubleIndex).fill(" ", 0, rowsDoubleIndex);
+  const median = Math.floor(rowsDoubleIndex / 2);
   arr.splice(median, 1, "*");
   console.log(arr.join(""));
 
