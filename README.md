@@ -28,5 +28,10 @@ Each folder represents a day’s progress, containing one or more solved problem
 |            | 8               | Print the sum of all odd numbers up to N                                                   |
 |            | 9               | Print the cubes of numbers from 1 to N                                                     |
 |            | 10              | Print only the numbers that are both even and perfect squares up to N                      |
+| 2025-11-28 | 1               | Find the maximum of three numbers                                                          |
+|            | 2               | Check if a give number is positive, negative or zero                                       |
+|            | 3               | Calculate electricity bill                                                                 |
+| 2025-12-01 | 1               | find the first non-repeating character in a given string                                   |
+|            | 2               | Check if a given character is Vowel or Consonant                                           |
 
 ✅ _Updated as I solve new problems._
