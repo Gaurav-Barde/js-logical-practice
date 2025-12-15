@@ -1,16 +1,15 @@
 // 🧩 Problem: Remove the decimal point mathematically
 // eg. input = 12.34 => 1234
 
-const num = 0.1;
+const num = 4.85856;
 
 const removeDecimalPointMathematically = (num) => {
-  let pow = 0;
-  let total;
-  while (total % 1 !== 0) {
-    total = num * 10 ** pow;
-    pow += 1;
+  let multiplier = 1;
+
+  while (!Number.isInteger(num * multiplier)) {
+    multiplier *= 10;
   }
-  return total;
+  return num * multiplier;
 };
 
 const result = removeDecimalPointMathematically(num);
