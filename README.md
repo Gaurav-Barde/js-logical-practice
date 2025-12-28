@@ -33,5 +33,7 @@ Each folder represents a day’s progress, containing one or more solved problem
 |            | 3               | Calculate electricity bill                                                                 |
 | 2025-12-01 | 1               | find the first non-repeating character in a given string                                   |
 |            | 2               | Check if a given character is Vowel or Consonant                                           |
+| 2025-12-02 | 1               | Check if a year is a Leap Year                                                             |
+|            | 2               | check type of a given character(Uppercase, Lowercase, Digit or Special Character)          |
 
 ✅ _Updated as I solve new problems._
