@@ -35,5 +35,11 @@ Each folder represents a day’s progress, containing one or more solved problem
 |            | 2               | Check if a given character is Vowel or Consonant                                           |
 | 2025-12-02 | 1               | Check if a year is a Leap Year                                                             |
 |            | 2               | check type of a given character(Uppercase, Lowercase, Digit or Special Character)          |
+| 2025-12-04 | 1               | Print Right-Angled Triangle using \* character                                             |
+|            | 2               | Print inverted Right-Angled Triangle using \* character                                    |
+|            | 3               | Print Pyramid Pattern using \* character                                                   |
+| 2025-12-07 | 1               | Print Inverted Pyramid Pattern using \* character                                          |
+| 2025-12-08 | 1               | Print Hollow Square Pattern                                                                |
+|            | 2               | Print Hollow Pyramid Pattern                                                               |
 
 ✅ _Updated as I solve new problems._
