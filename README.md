@@ -41,5 +41,9 @@ Each folder represents a day’s progress, containing one or more solved problem
 | 2025-12-07 | 1               | Print Inverted Pyramid Pattern using \* character                                          |
 | 2025-12-08 | 1               | Print Hollow Square Pattern                                                                |
 |            | 2               | Print Hollow Pyramid Pattern                                                               |
+| 2025-12-09 | 1               | Print Alternating Binary Triangle                                                          |
+| 2025-12-10 | 1               | Print Butterfly Pattern                                                                    |
+| 2025-12-11 | 1               | Print Diamond Pattern                                                                      |
+| 2025-12-12 | 1               | If given an array of [2,4,6,5] print digits to number using mathematical formula           |
 
 ✅ _Updated as I solve new problems._
