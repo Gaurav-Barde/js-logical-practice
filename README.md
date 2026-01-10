@@ -45,5 +45,12 @@ Each folder represents a day’s progress, containing one or more solved problem
 | 2025-12-10 | 1               | Print Butterfly Pattern                                                                    |
 | 2025-12-11 | 1               | Print Diamond Pattern                                                                      |
 | 2025-12-12 | 1               | If given an array of [2,4,6,5] print digits to number using mathematical formula           |
+|            | 2               | Split a given number into digits                                                           |
+|            | 3               | Reverse given number without using string methods                                          |
+| 2025-12-13 | 1               | Remove the decimal point mathematically                                                    |
+| 2025-12-15 | 1               | Separate whole and fractional part of a Number                                             |
+| 2025-12-16 | 1               | Generate a Decimal Number from Whole and Fractional Digits                                 |
+| 2025-12-19 | 1               | Check if the two given strings are anagram                                                 |
+| 2025-12-25 | 1               | Check if a Number is a Palindrome                                                          |
 
 ✅ _Updated as I solve new problems._
