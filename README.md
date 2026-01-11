@@ -52,5 +52,7 @@ Each folder represents a day’s progress, containing one or more solved problem
 | 2025-12-16 | 1               | Generate a Decimal Number from Whole and Fractional Digits                                 |
 | 2025-12-19 | 1               | Check if the two given strings are anagram                                                 |
 | 2025-12-25 | 1               | Check if a Number is a Palindrome                                                          |
+| 2026-01-03 | 1               | Reverse all the characters of a string without changing the word positions Palindrome                                                          |
+| 2026-01-07 | 1               | Find out largest and second largest occurrences of the repeated elements in a given array                                                          |
 
 ✅ _Updated as I solve new problems._
