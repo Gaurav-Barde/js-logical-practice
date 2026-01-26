@@ -52,7 +52,13 @@ Each folder represents a day’s progress, containing one or more solved problem
 | 2025-12-16 | 1               | Generate a Decimal Number from Whole and Fractional Digits                                 |
 | 2025-12-19 | 1               | Check if the two given strings are anagram                                                 |
 | 2025-12-25 | 1               | Check if a Number is a Palindrome                                                          |
-| 2026-01-03 | 1               | Reverse all the characters of a string without changing the word positions Palindrome                                                          |
-| 2026-01-07 | 1               | Find out largest and second largest occurrences of the repeated elements in a given array                                                          |
+| 2026-01-03 | 1               | Reverse all the characters of a string without changing the word positions Palindrome      |
+| 2026-01-07 | 1               | Find out largest and second largest occurrences of the repeated elements in a given array  |
+| 2026-01-12 | 1               | Find the sum of digits                                                                     |
+| 2026-01-14 | 1               | Check if a Number is an Armstrong Number                                                   |
+| 2026-01-18 | 1               | Find the Average of Digits                                                                 |
+| 2026-01-20 | 1               | Find the Largest and Smallest Digit in a Number                                            |
+| 2026-01-21 | 1               | Check if a given Number is a Strong Number                                                 |
+| 2026-01-23 | 1               | Check if a given Number is an Automorphic Number Number                                    |
 
 ✅ _Updated as I solve new problems._
