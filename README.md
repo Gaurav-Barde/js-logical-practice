@@ -60,5 +60,8 @@ Each folder represents a day’s progress, containing one or more solved problem
 | 2026-01-20 | 1               | Find the Largest and Smallest Digit in a Number                                            |
 | 2026-01-21 | 1               | Check if a given Number is a Strong Number                                                 |
 | 2026-01-23 | 1               | Check if a given Number is an Automorphic Number Number                                    |
+| 2026-01-27 | 1               | Find the frequency of each digit                                                           |
+| 2026-01-28 | 1               | Check if a Number is a Harshad Number                                                      |
+| 2026-01-31 | 1               | Print All Factors of a Number                                                              |
 
 ✅ _Updated as I solve new problems._
