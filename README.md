@@ -63,5 +63,7 @@ Each folder represents a day’s progress, containing one or more solved problem
 | 2026-01-27 | 1               | Find the frequency of each digit                                                           |
 | 2026-01-28 | 1               | Check if a Number is a Harshad Number                                                      |
 | 2026-01-31 | 1               | Print All Factors of a Number                                                              |
+| 2026-02-02 | 1               | Print All Multiples of a Number up to N                                                    |
+| 2026-02-03 | 1               | Find the HCF (Highest Common Factor) or GCD of Two Numbers                                 |
 
 ✅ _Updated as I solve new problems._
