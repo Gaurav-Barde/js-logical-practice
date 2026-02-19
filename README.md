@@ -65,5 +65,8 @@ Each folder represents a day’s progress, containing one or more solved problem
 | 2026-01-31 | 1               | Print All Factors of a Number                                                              |
 | 2026-02-02 | 1               | Print All Multiples of a Number up to N                                                    |
 | 2026-02-03 | 1               | Find the HCF (Highest Common Factor) or GCD of Two Numbers                                 |
+| 2026-02-15 | 1               | Find the LCM (Least Common Multiple) of Two Numbers                                 |
+
+
 
 ✅ _Updated as I solve new problems._
