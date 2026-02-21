@@ -20,26 +20,3 @@ const sumOfAllFactors = (num) => {
 
 const result = sumOfAllFactors(num);
 console.log(result);
-
-
-
-const checkPerfectNumber = (num) => {
-
-  let sum = 0;
-
-  let temp = num % 2 === 0 ? num /2 : num/2 - 1;
-
-  while(temp > 0){
-    if(num % temp === 0){
-      sum += temp;
-    }
-    temp--;
-  }
-
-  if(sum === num) return true;
-
-  return false;
-
-}
-const result = checkPerfectNumber(496);
-console.log(result);
