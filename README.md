@@ -68,6 +68,6 @@ Each folder represents a day’s progress, containing one or more solved problem
 | 2026-02-15 | 1               | Find the LCM (Least Common Multiple) of Two Numbers                                        |
 | 2026-02-17 | 1               | Calculate the Sum of All Factors of a Number                                               |
 | 2026-02-20 | 1               | Check if a given number is a perfect number                                                |
-| 2026-02-22 | 1               | Find HCF and LCM of three numbers...                                                          |
+| 2026-02-22 | 1               | Find HCF and LCM of three numbers                                                          |
 
 ✅ _Updated as I solve new problems._
