@@ -3,23 +3,23 @@
 // output: Co-Prime
 // Reason: since 7 & 8 are not divisible by any common factor
 
-const a = 7, b=8;
+const a = 3, b=10;
 
 const isCoPrime = (a, b) => {
   const largest = a > b ? a : b;
-  let half = Math.floor(largest / 2);
+  let temp = Math.floor(largest / 2);
 
-  while(half > 1){
-    if(a % half === 0 && b % half === 0){
-      return true;
+  while(temp > 1){
+    if(a % temp === 0 && b % temp === 0){
+      return false;
     }
 
-    half--;
+    temp--;
 
   }
 
-  return false;
+  return true;
 
 };
-const result = isCoPrime(num);
+const result = isCoPrime(a, b);
 console.log(result);
