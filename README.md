@@ -70,5 +70,6 @@ Each folder represents a day’s progress, containing one or more solved problem
 | 2026-02-20 | 1               | Check if a given number is a perfect number                                                |
 | 2026-02-22 | 1               | Find HCF and LCM of three numbers                                                          |
 | 2026-03-01 | 1               | Check if a number is Prime                                                                 |
+| 2026-03-09 | 1               | Check if two numbers are Co-Prime                                                                 |
 
 ✅ _Updated as I solve new problems._
